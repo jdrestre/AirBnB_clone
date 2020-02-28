@@ -2,7 +2,7 @@
 <h1 align="center">0x00. AirBnB clone</h1>
 <p align="center">The console</p>
 
-![N|Solid](https://www.tecnofem.com/wp-content/uploads/2020/02/airbnb-logo.png)
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/airbnb_logo.png)
 
 
 ---
@@ -11,7 +11,7 @@ Project Command Iterpreter HolbertonBnB is a complete web application, integrati
 
 The project currently only implements the back-end console.
 
-![N|Solid](https://www.tecnofem.com/wp-content/uploads/2020/02/airbnb-map.png)
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/airbnb_web_static_front-end.png)
 
 ---
 ## Classes
