@@ -33,12 +33,12 @@ Concepts to learn in this project:
 - What are Box properties in CSS
 
 
-
 ## Task Project
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[]()|0. README, AUTHORS|Description Project and Authors github
+[0-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/0-index.htm)|0. Inline styling|Write an HTML page that displays a header and a footer.
+
 
 
 ## Author
