@@ -11,7 +11,7 @@ Project Command Iterpreter HolbertonBnB is a complete web application, integrati
 
 The project currently only implements the back-end console.
 
-![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/airbnb_web_static_front-end.png)
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/airbnb_the_console_back-end.png)
 
 ---
 ## Classes
