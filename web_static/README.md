@@ -41,6 +41,13 @@ File Name|Task Name|Task Description
 [1-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/1-index.html)|1. Head styling|Write an HTML page that displays a header and a footer by using the style tag in the head tag (same as 0-index.html)
 [2-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/2-index.html) - [styles/2-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/2-common.css) - [styles/2-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/2-header.css) - [styles/2-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/2-footer.css)|2. CSS files|Write an HTML page that displays a header and a footer by using CSS files (same as 1-index.html)
 
+**The previous tasks should look like the following image**
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/web-static-base.png)
+
+---
+File Name|Task Name|Task Description
+---|---|---
+[]()| |
 
 ## Author
 
