@@ -55,6 +55,14 @@ File Name|Task Name|Task Description
 ---
 File Name|Task Name|Task Description
 ---|---|---
+[4-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/4-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) [styles/4-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-filters.css)|4. Search!|Write an HTML page that displays a header, footer and a filters box with a search button.
+
+**The previous tasks should look like the following image**
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/4-index.png)
+
+---
+File Name|Task Name|Task Description
+---|---|---
 
 
 ## Author
