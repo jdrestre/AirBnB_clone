@@ -47,7 +47,15 @@ File Name|Task Name|Task Description
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[]()| |
+[3-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/3-index.html) - [styles/3-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css)|3. Zoning done!|Write an HTML page that displays a header and footer by using CSS files (same as 2-index.html)
+
+**The previous tasks should look like the following image**
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/3-index.png)
+
+---
+File Name|Task Name|Task Description
+---|---|---
+
 
 ## Author
 
