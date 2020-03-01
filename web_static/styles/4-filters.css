@@ -14,9 +14,10 @@
     width: 20%;
     border: none;
     border-radius: 4px;
+    /*Position botton search with respect to filters class*/
     position: relative;
     top: 11px;
-    left: 770px;
+    left: 77%;
 }
 
 .filters button:hover {

@@ -1,0 +1,71 @@
+/* Filters for style Task 5 */
+
+/* General Filters Style */
+.filters {
+    background-color: white;
+    height: 70px;
+    width: 100%;
+    border: 1px solid #DDDDDD;
+    border-radius: 4px;
+    /*position: inherit;*/
+}
+
+/* Search button style */
+button {
+    font-size: 18px;
+    background-color: #FF5A5F;
+    color: #FFFFFF;
+    height: 48px;
+    width: 20%;
+    border: 0;
+    border-radius: 4PX;
+    /*POSITION BOTTON SEARCH WITH RESPECT TO FILTERS CLASS*/
+    position: relative;
+    top: 11PX;
+    right: -26.9%;
+}
+
+/* Search botton opacity */
+.filters button:hover {
+    opacity: 0.9;
+}
+
+/* Locations Style */
+.filters .locations {
+    /*display: flex;
+    align-items: center;
+    justify-content: flex-start;*/
+    height: 100%;
+    width: 25%;
+    border-right: 1px solid #DDDDDD;
+    margin: 0;
+    float: left;
+    position: relative;
+    right: -40px;
+}
+
+/* Amenities Style */
+.filters .amenities {
+    /*position: relative;
+    top: -60px;
+    left: 30%;*/
+    height: 100%;
+    width: 25%;
+    margin: 0;
+    float: left;
+    position: relative;
+    right: -80px;
+}
+
+/* Headers Styles */
+
+.filters h3 {
+    font-weight: 600;
+    margin-top: 15px;
+}
+
+.filters h4 {
+    font-weight: 400;
+    font-size: 14px;
+    margin-top: -15px;
+}

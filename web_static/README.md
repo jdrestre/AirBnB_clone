@@ -63,6 +63,10 @@ File Name|Task Name|Task Description
 ---
 File Name|Task Name|Task Description
 ---|---|---
+[5-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/5-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) [styles/5-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/5-filters.css)|5. More filters|Write an HTML page that displays a header, footer and a filters box. Locations and Amenities
+
+**The previous tasks should look like the following image**
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/5-index.png)
 
 
 ## Author
