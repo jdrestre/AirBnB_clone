@@ -6,7 +6,7 @@
 
 
 ---
-## Description Project Web stati
+## Description Project Web static
 During this project, you will learn how to manipulate HTML and CSS languages. HTML is the structure of your page, it should be the first thing to write. CSS is the styling of your page, the design. I really encourage you to fix your HTML part before starting the styling. Indeed, without any structure, you can’t apply any design.
 
 The project currently only implements the front-end web static.
@@ -55,7 +55,7 @@ File Name|Task Name|Task Description
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[4-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/4-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) [styles/4-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-filters.css)|4. Search!|Write an HTML page that displays a header, footer and a filters box with a search button.
+[4-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/4-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) - [styles/4-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-filters.css)|4. Search!|Write an HTML page that displays a header, footer and a filters box with a search button.
 
 **The previous tasks should look like the following image**
 ![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/4-index.png)
@@ -63,10 +63,20 @@ File Name|Task Name|Task Description
 ---
 File Name|Task Name|Task Description
 ---|---|---
-[5-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/5-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) [styles/5-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/5-filters.css)|5. More filters|Write an HTML page that displays a header, footer and a filters box. Locations and Amenities
+[5-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/5-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) - [styles/5-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/5-filters.css)|5. More filters|Write an HTML page that displays a header, footer and a filters box. Locations and Amenities
 
 **The previous tasks should look like the following image**
 ![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/5-index.png)
+
+---
+File Name|Task Name|Task Description
+---|---|---
+[6-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/6-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) - [styles/6-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/6-filters.css)|6. It's (h)over|Write an HTML page that displays a header, footer and a filters box with dropdown.
+
+**The previous tasks should look like the following image**
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/6-index_0.png)
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/6-index_1.png)
+
 
 
 ## Author
