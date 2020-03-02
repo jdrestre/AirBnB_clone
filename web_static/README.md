@@ -74,6 +74,7 @@ File Name|Task Name|Task Description
 [6-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/6-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) - [styles/6-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/6-filters.css)|6. It's (h)over|Write an HTML page that displays a header, footer and a filters box with dropdown.
 
 **The previous tasks should look like the following image**
+
 ![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/6-index_0.png)
 ![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/6-index_1.png)
 
