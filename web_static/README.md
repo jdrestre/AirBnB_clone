@@ -79,6 +79,14 @@ File Name|Task Name|Task Description
 ![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/6-index_1.png)
 
 
+---
+File Name|Task Name|Task Description
+---|---|---
+[7-index.html](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/7-index.html) - [styles/4-common.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/4-common.css) - [styles/3-header.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-header.css) - [styles/3-footer.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/3-footer.css) - [styles/6-filters.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/6-filters.css) - [7-places.css](https://github.com/jdrestre/AirBnB_clone/blob/master/web_static/styles/7-places.css)|7. Display results|Write an HTML page that displays a header, footer, a filters box with dropdown and results.
+
+**The previous tasks should look like the following image**
+
+![N|Solid](https://github.com/jdrestre/AirBnB_clone/blob/master/pics_readme/7-index.png)
 
 ## Author
 
